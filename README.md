@@ -1,4 +1,6 @@
-## Next.js App Router Course - Starter
+# Next.js App Router Course - Starter
+
+Want to see the project live? [Click here!](https://nextjs-dashboard-phi-black-22.vercel.app/)
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
